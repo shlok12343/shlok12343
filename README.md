@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 Hi! A little bit about me I'm a sophomore at Northeastern University’s Khoury College of Computer Science, pursuing a B.S. in Computer Science<be>
 
 I am a student trying to figure out what journey best fits him in a subject he is passionate about, which has many fields, but one thing I know is tackling coding problems that come up in a project or my homework problems for algorithms and data structure is something I love<be>
