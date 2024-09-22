@@ -3,7 +3,7 @@ Hi! A little bit about me I'm a sophomore at Northeastern University’s Khoury 
 
 I am a student trying to figure out what journey best fits him in a subject he is passionate about, which has many fields, but one thing I know is tackling coding problems that come up in a project or my homework problems for algorithms and data structure is something I love<be>
 
-I want to my expertise in software engineering, information technology, and systems analysis. I'm keen to explore opportunities that challenge me to use my skills in project management, quality assurance, and problem-solving to contribute to innovative solutions.<br>
+I want to use my expertise in software engineering, information technology, and systems analysis. I'm keen to explore opportunities that challenge me to use my skills in project management, quality assurance, and problem-solving to contribute to innovative solutions in projects.<br>
 
 
 ## 🌐 Socials:
