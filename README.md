@@ -1,6 +1,5 @@
 # 🚀 About Me:
-I am a third year student at Northeastern University Khoury College doing a BS in computer science with a concentration in AI. maintaining a 3.9 GPA. Last semester, I finished a 6 months co-op at Wayfair as a Software Engineer where I worked in the knowledge and generative AI acceleration team, working a lot with AI. While also being co-op captain of our cohort. I am currently a teaching assistant for the undergrad computer systems class at my university. I am also part of the board and the outreach director for Oasis, a northeastern student organization which is a software project incubator with more than 150 active grad and undergrad members
-
+My name is Shlok A. Nanani, and I'm a computer science student at Northeastern University concentrating in Artificial Intelligence. I enjoy building systems and tools that turn data into real-world impact. There is a lot I don’t know and am still learning, but one thing I do know is that tackling complex and challenging problems genuinely fascinates me.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-nanani/) 
 
